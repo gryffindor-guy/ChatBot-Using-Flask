@@ -1,14 +1,12 @@
 html, body {
-  background: url('https://raw.githubusercontent.com/gryffindor-guy/FrontEnd-Web-Development-of-Chatbot/main/chatty.png'); 
+  background: url('https://raw.githubusercontent.com/gryffindor-guy/FrontEnd-Web-Development-of-Chatbot/cd4501af718c86d8fdd5ae3e14d1b73756f08725/robot.svg'); 
   background-color: cyan; /* Used if the image is unavailable */
   background-position: relative; 
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: 100% 300%;
   height: 500px; 
 }
-#one {
-  visibility:hidden;
-}
+
 .special {
   font-size: 35px;
   font-family: Arial, Helvetica, sans-serif;
